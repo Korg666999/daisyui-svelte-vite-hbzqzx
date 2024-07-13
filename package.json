@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2",
+    "autoprefixer": "^10",
+    "daisyui": "^3",
+    "postcss": "^8",
+    "svelte": "^3",
+    "tailwindcss": "^3",
+    "vite": "^4"
+  }
+}
